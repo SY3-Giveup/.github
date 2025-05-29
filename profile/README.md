@@ -14,5 +14,5 @@
   - หน้าที่หลัก: Frontend
   - มีส่วนร่วมใน: Backend, Database
 
-## Quote of group
+## Group Quote
 ![realmeninproduction](https://github.com/user-attachments/assets/cf32b61c-c90c-42a3-aa3f-7f39baf42cfb)

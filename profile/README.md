@@ -1,7 +1,7 @@
 ## INT221 Group SY-3 Giveup 
 
 ### Group Advisor 👨‍🏫
-* **Aj.Siam Yamsaengsung**
+* **Prof. Dr. Siam Yamsaengsung**
 
 ### Group members 😎
 * **66130500105 Varsi Nithiparkorn [34%]**
